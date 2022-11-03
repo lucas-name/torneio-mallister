@@ -1,0 +1,80 @@
+.section{
+    background-image: url('/img/bg-history.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+}
+
+.section-champs{
+    background-image: url('/img/bg-campeos.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section-teams{
+    background-image: url('/img/zodiac.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1100px;
+}
+
+.img-champs{
+    width: 35vw;
+    margin-left: 60%;
+}
+
+.img-dragon{
+    width: 35vw;
+    margin-top: -200px;
+}
+
+.h3-sec-champs{
+    font-size: 2.5em;
+    color: black;
+}
+
+.h2-sec-teams{
+    font-size: 3.5em;
+    color: #fff;
+    text-align: center;
+    margin-top: 350px;
+}
+
+.btn-teams{
+    text-decoration: none;
+    font-size: 1.5em;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #fff;
+    border-radius: 8px;
+    width: 200px;
+    padding: 10px;
+    margin-left: 44%;
+    margin-top: 40px;
+}
+
+
+.btn-teams:hover{
+    background-color: #2a2a4d;
+    transition: 1s;
+    transform: scale(1.1);
+}
+
+.text-height{
+    display: flex;
+    flex-direction: column;  
+    width: 30%;
+    margin-left: 60%;
+}
+
+
+
+.img-mage{
+    width: 1000px;
+    height: 500px;
+    margin-top: -220px;
+    box-shadow: 23px 13px 29px 0px rgba(0,0,0,0.73);
+}
+
