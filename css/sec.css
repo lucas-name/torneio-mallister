@@ -1,18 +1,18 @@
 .section{
-    background-image: url('../img/history.jpg');
+    background-image: url('.../img/history.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 900px;
 }
 
 .section-champs{
-    background-image: url('../img/champs.jpg');
+    background-image: url('.../img/champs.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .section-teams{
-    background-image: url('../img/zodiac.jpg');
+    background-image: url('.../img/zodiac.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 1100px;
