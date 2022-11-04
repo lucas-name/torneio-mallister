@@ -96,7 +96,7 @@ section img#moon{
     mix-blend-mode: screen;
 }
 
-section img#mountains_front{
+section img#mtfront{
     z-index: 10;
 }
 
