@@ -73,3 +73,78 @@ function modalZoltan (idModal){
 }   
 const zoltan = document.getElementById('zoltan')
 zoltan.addEventListener('click', () => modalZoltan('modal-zoltan'))
+
+
+
+/*TEAM REESE */
+
+function modalJames (idModal){
+    const modal = document.getElementById(idModal)
+    modal.classList.add('mostrar')
+    modal.addEventListener('click', (e) => {
+        if(e.target.id == idModal || e.target.className == 'fechar'){
+            modal.classList.remove('mostrar')
+        }
+    })
+}   
+const james = document.getElementById('james')
+james.addEventListener('click', () => modalZoltan('modal-james'))
+
+
+function modalAnne (idModal){
+    const modal = document.getElementById(idModal)
+    modal.classList.add('mostrar')
+    modal.addEventListener('click', (e) => {
+        if(e.target.id == idModal || e.target.className == 'fechar'){
+            modal.classList.remove('mostrar')
+        }
+    })
+}   
+const anne = document.getElementById('anne')
+anne.addEventListener('click', () => modalZoltan('modal-anne'))
+
+
+function modalRobert (idModal){
+    const modal = document.getElementById(idModal)
+    modal.classList.add('mostrar')
+    modal.addEventListener('click', (e) => {
+        if(e.target.id == idModal || e.target.className == 'fechar'){
+            modal.classList.remove('mostrar')
+        }
+    })
+}   
+const robert = document.getElementById('robert')
+robert.addEventListener('click', () => modalZoltan('modal-robert'))
+
+
+
+function modalMari (idModal){
+    const modal = document.getElementById(idModal)
+    modal.classList.add('mostrar')
+    modal.addEventListener('click', (e) => {
+        if(e.target.id == idModal || e.target.className == 'fechar'){
+            modal.classList.remove('mostrar')
+        }
+    })
+}   
+const mari = document.getElementById('mari')
+mari.addEventListener('click', () => modalZoltan('modal-mari'))
+
+
+function modalKamil (idModal){
+    const modal = document.getElementById(idModal)
+    modal.classList.add('mostrar')
+    modal.addEventListener('click', (e) => {
+        if(e.target.id == idModal || e.target.className == 'fechar'){
+            modal.classList.remove('mostrar')
+        }
+    })
+}   
+const kamil = document.getElementById('kamil')
+kamil.addEventListener('click', () => modalZoltan('modal-kamil'))
+
+
+
+
+
+

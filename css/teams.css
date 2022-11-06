@@ -32,7 +32,8 @@ body{
     justify-content: center;
     align-items: center;
     gap: 40px;
-    margin-top: 200px;
+    margin-top: 160px;
+    margin-bottom: 120px;
 }
 
 .h3-cards{
@@ -47,6 +48,7 @@ body{
 .img-nozel{
     width: 250px;
 }
+
 
 
 .div-names-cards{
